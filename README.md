@@ -12,7 +12,7 @@ This starter focuses on building profiles using commands. Each command requires 
 
 ### Option one: One-click deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jonath0n/courier-netlify-msteams#NPM_VERSION=9.9.3)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jonath0n/courier-netlify-msteams)
 
 Clicking this button will create a new repo for you that looks like this one, and sets that repo up immediately for deployment on Netlify. You will be prompted for a repo name and to provide the values for the following environment variables to use with Courier and the Microsoft Teams Bot.
 
