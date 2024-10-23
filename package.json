@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@trycourier/courier": "^6.3.0",
-    "botbuilder": "^4.23.1"
+    "@trycourier/courier": "^2.2.0",
+    "botbuilder": "^4.13.0"
   }
 }
