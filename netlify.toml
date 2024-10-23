@@ -3,6 +3,12 @@
   to = "/.netlify/functions/messages"
   status = 200
 
+[build]
+  environment = { NODE_VERSION = "16" }
+
+[build.processing]
+  skip_processing = true
+
 [template.environment]
   COURIER_AUTH_TOKEN = "Courier auth token (required)"
   MSTEAMS_APP_ID = "Microsoft Teams App ID (required)"
