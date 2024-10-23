@@ -1,10 +1,7 @@
 [[redirects]]
   from = "/api/messages"
-  to = "/api/internal/messages"
+  to = "/.netlify/functions/messages"
   status = 200
-
-[functions]
-  directory = "netlify/functions"
 
 [template.environment]
   COURIER_AUTH_TOKEN = "Courier auth token (required)"
