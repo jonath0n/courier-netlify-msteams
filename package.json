@@ -12,5 +12,8 @@
   "dependencies": {
     "@trycourier/courier": "^2.2.0",
     "botbuilder": "^4.13.0"
+  },
+  "devDependencies": {
+    "@netlify/cache-utils": "^5.1.6"
   }
 }
